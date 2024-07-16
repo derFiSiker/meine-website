@@ -316,6 +316,10 @@ section{
 
 .rotate-text span::before{
     content: "";
+    background-image: url('me-front.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     position: absolute;
     inset: 20px;
     border-radius: 50%;
