@@ -318,7 +318,7 @@ section{
     content: "";
     position: absolute;
     inset: 20px;
-    background-image: url('\\img\\me-front.jpg');
+    background-image: url('me-front.jpg');
    background-position: center;
    background-size: cover;
     border-radius: 50%;
